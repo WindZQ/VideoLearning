@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "simplest_ffmpeg_demuxer_simple", "simplest_ffmpeg_demuxer_simple\simplest_ffmpeg_demuxer_simple.vcxproj", "{38F642FD-B9E9-4765-B139-D81DDA3C6352}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38F642FD-B9E9-4765-B139-D81DDA3C6352}.Debug|Win32.ActiveCfg = Debug|Win32
+		{38F642FD-B9E9-4765-B139-D81DDA3C6352}.Debug|Win32.Build.0 = Debug|Win32
+		{38F642FD-B9E9-4765-B139-D81DDA3C6352}.Release|Win32.ActiveCfg = Release|Win32
+		{38F642FD-B9E9-4765-B139-D81DDA3C6352}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
